@@ -61,7 +61,7 @@
 @media (min-width:300px) and (max-width:800px){
     .card{
         display: block;
-        background-color: rgb(51, 170, 185);
+        background-color: rgb(200, 217, 219);
         margin: auto;
         padding: auto;
         margin-bottom: 20px;
@@ -72,7 +72,7 @@
 @media (min-width:768px){
     .card{
         display: block;
-        background-color: rgb(42, 110, 165);
+        background-color:rgb(225, 230, 235);
         margin-bottom: 30px;
         
     }
