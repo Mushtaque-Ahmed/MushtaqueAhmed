@@ -1,2 +1,2 @@
-# .github.io
+# MushtaqueAhmed.github.io
 My Portfolio Website
